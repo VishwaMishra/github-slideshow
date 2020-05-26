@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+new commit has created
 Use the left arrow to go back!
 ---
 branch created
